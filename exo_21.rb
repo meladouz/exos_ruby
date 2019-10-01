@@ -5,7 +5,7 @@ nombre_de_lignes = gets.chomp.to_i
 
 pyramide = "#"
 caractere_pyramide = "#"
-
+puts "Here we go !"
 
 nombre_de_lignes.times do
   espace = " " * nombre_de_lignes
